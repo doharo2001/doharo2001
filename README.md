@@ -5,7 +5,12 @@
 
 До поступления в колледж, год учился в Школе программистов, изучал язык программирования C++ и C#.
 Усидчивый, целеустремлённый
- 
+
+Для связи со мной:
+
+VK: https://vk.com/doharo
+
+Telegram: @doharo
 
 <!--
 **doharo2001/doharo2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
